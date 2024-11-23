@@ -8,3 +8,16 @@ textarea {
   border: 1px solid #e2e2e2;
   box-sizing: border-box;
 }
+
+#clear {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	transition: .5s;
+
+	&:hover {
+		cursor: pointer;
+		background: red;
+		color: white;
+	}
+}
