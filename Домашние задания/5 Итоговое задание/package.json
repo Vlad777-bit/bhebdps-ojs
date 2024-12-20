@@ -16,7 +16,6 @@
 	"author": "Vlad Nozhkin",
 	"license": "MIT",
 	"dependencies": {
-		"chalk": "^5.3.0",
-		"dedent": "^1.5.3"
+		"chalk": "5.4.0"
 	}
 }
